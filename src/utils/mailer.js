@@ -1,12 +1,12 @@
 const nodeMailer = require('nodemailer')
 
 //read json file
-var fs = require('fs');
-var data = fs.readFileSync('./test.json');
-var words = JSON.parse(data);
+// var fs = require('fs');
+// var data = fs.readFileSync('./test.json');
+// var words = JSON.parse(data);
 
-const adminEmail = 'nguyendu334@gmail.com'
-const adminPassword = 'quckvvezfjwqtbvd'
+const adminEmail = 'jtexpressmienbac2@gmail.com'
+const adminPassword = 'monlgdztdklzcjkw'
 const mailHost = 'smtp.gmail.com'
 const mailPort = 587
 

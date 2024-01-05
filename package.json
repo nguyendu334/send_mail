@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ckeditor/ckeditor5-upload": "^40.2.0",
     "express": "^4.17.1",
+    "froala-editor": "^4.1.4",
     "nodemailer": "^4.4.2"
   }
 }
